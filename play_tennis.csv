@@ -1,0 +1,15 @@
+﻿SAMPLE ID,Outlook,Temperature,Humidity,Windy,Play
+0,Sunny,Hot,High,FALSE,No
+1,Sunny,Hot,High,TRUE,No
+2,Overcast,Hot,High,FALSE,Yes
+3,Rainy,Mild,High,FALSE,Yes
+4,Rainy,Cool,Normal,FALSE,Yes
+5,Rainy,Cool,Normal,TRUE,No
+6,Overcast,Cool,Normal,TRUE,Yes
+7,Sunny,Mild,High,FALSE,No
+8,Sunny,Cool,Normal,FALSE,Yes
+9,Rainy,Mild,Normal,FALSE,Yes
+10,Sunny,Mild,Normal,TRUE,Yes
+11,Overcast,Mild,High,TRUE,Yes
+12,Overcast,Hot,Normal,FALSE,Yes
+13,Rainy,Mild,High,TRUE,No
